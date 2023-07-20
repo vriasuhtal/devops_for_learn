@@ -1,0 +1,3 @@
+6th file for checking stash 
+so i will not commit the file and you can see check master branch refleting this file
+becouse we have not stash it 
